@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Christmas Magic Particles",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures. Uses MediaPipe for hand tracking to manipulate a Christmas-themed magic circle.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
